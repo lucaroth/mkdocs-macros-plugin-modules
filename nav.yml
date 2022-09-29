@@ -1,0 +1,6 @@
+extra_nav:
+  - index.md
+  - pages:
+    - p1.md
+    - p2.md
+    - p3.md
