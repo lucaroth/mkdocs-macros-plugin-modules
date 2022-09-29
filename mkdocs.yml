@@ -1,0 +1,7 @@
+site_name: My Docs
+plugins:
+  - search
+  - macros
+  
+theme:
+  name: material
